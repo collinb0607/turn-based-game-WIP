@@ -5,7 +5,7 @@ The limited functionality of this game includes:
   -New Attack rewards for winning
   -RNG for enemy's attack
   -A command instruction menu
-  -Error's for when an incorrect ability is chosen
+  -Errors for when an incorrect ability is chosen
   
 I started this project as an exercise in Python to learn more from their documentation and further my knowledge. I started the project on or about May 18th. 
 The idea of a turn-based fighting game and a couple of the class & function names came from an application for Toontown: Corporate Clash. All of the functionality and code has been written by me.
